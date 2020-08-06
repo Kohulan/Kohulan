@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm [Kohulan.R!](https://cheminf.uni-jena.de/members/kohulan-rajan/) 
 
-
-<p align="center">
-  <src="https://github.com/Kohulan/Kohulan/blob/master/assets/Github_intro.gif">
-</p>
+<img align="center" src="https://github.com/Kohulan/Kohulan/blob/master/assets/Github_intro.gif" alt="kohulan_intro" />
 </br>
 <p align="middle">
   <a href="https://www.linkedin.com/in/kohulanrajan/">

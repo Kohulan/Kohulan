@@ -7,7 +7,7 @@
     <img align="center" alt="Kohulan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="www.facebook.com/Kohulan.RPhotography/">
+  <a href="https://www.facebook.com/Kohulan.RPhotography/">
     <img align="center" alt="Kohulan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 

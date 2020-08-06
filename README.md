@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm [Kohulan.R!](https://cheminf.uni-jena.de/members/kohulan-rajan/) 
 
+
 <p align="center">
   <img width="800" height="450" src="https://github.com/Kohulan/Kohulan/blob/master/assets/Github_intro.gif">
 </p>
-<br/>
-<br/>
+</br>
 <p align="middle">
 <a href="https://www.linkedin.com/in/kohulanrajan/">
   <img align="center" alt="Kohulan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -32,9 +32,8 @@
 
 - 🔭 I’m currently working on my PhD Research.
 - 🌱 I’m currently learning more about TPUs(Tensor Processing Units).
-- 🤔 I’m looking for help with cloud TPUs.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: kohulan.rajan@uni-jena.de.
-- ⚡ Fun fact: I am a designer as well.
+- ⚡ Fun fact: I do click some good photos. 📷 😎
 
 ![Kohulan's github stats](https://github-readme-stats.vercel.app/api?username=kohulan&show_icons=true&hide_border=true)

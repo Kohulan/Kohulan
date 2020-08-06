@@ -20,7 +20,7 @@
 
 <br />
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on my PhD Research.
 - 🌱 I’m currently learning more about TPUs(Tensor Processing Units).
@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything.
 - 📫 How to reach me: kohulan.rajan@uni-jena.de.
 - ⚡ Fun fact: I am a designer as well.
+
+![Kohulan's github stats](https://github-readme-stats.vercel.app/api?username=kohulan&show_icons=true&hide_border=true)

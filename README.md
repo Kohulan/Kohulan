@@ -4,20 +4,20 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/kohulanrajan/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a align="center" href="https://www.linkedin.com/in/kohulanrajan/">
+  <img alt="Kohulan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="www.facebook.com/Kohulan.RPhotography/">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a align="center" href="www.facebook.com/Kohulan.RPhotography/">
+  <img alt="Kohulan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/kohulanr/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a align="center" href="https://www.instagram.com/kohulanr/">
+  <img alt="Kohulan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="http://orcid.org/0000-0003-1066-7792">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
+<a align="center" href="http://orcid.org/0000-0003-1066-7792">
+  <img alt="Kohulan's ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
 </a>
-<a href="https://github.com/Kohulan">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a align="center" href="https://github.com/Kohulan">
+  <img alt="Kohulan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br/>

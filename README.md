@@ -38,7 +38,6 @@
 - 📫 How to reach me: kohulan.rajan@uni-jena.de.
 - ⚡ Fun fact: I do click some good photos. 📷 😎
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohulan&layout=compact&hide=html" alt="kohulan" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kohulan&show_icons=true" alt="kohulan" />
 
 <p align="center">

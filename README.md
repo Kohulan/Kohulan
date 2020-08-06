@@ -3,22 +3,23 @@
 ![GitHub intro](https://github.com/Kohulan/Kohulan/blob/master/assets/Github_intro.gif)
 
 <br/>
-<a align="middle" href="https://www.linkedin.com/in/kohulanrajan/">
-  <img alt="Kohulan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<p align="center">
+<a href="https://www.linkedin.com/in/kohulanrajan/">
+  <img align="center" alt="Kohulan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a align="center" href="www.facebook.com/Kohulan.RPhotography/">
-  <img alt="Kohulan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="www.facebook.com/Kohulan.RPhotography/">
+  <img align="center" alt="Kohulan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a align="center" href="https://www.instagram.com/kohulanr/">
-  <img alt="Kohulan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/kohulanr/">
+  <img align="center" alt="Kohulan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a align="center" href="http://orcid.org/0000-0003-1066-7792">
-  <img alt="Kohulan's ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
+<a href="http://orcid.org/0000-0003-1066-7792">
+  <img align="center" alt="Kohulan's ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
 </a>
-<a align="center" href="https://github.com/Kohulan">
-  <img alt="Kohulan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/Kohulan">
+  <img align="center" alt="Kohulan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+</p>
 <br/>
 
 <br/>

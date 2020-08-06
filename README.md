@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="800" height="450" src="https://github.com/Kohulan/Kohulan/blob/master/assets/Github_intro.gif">
+  <src="https://github.com/Kohulan/Kohulan/blob/master/assets/Github_intro.gif">
 </p>
 </br>
 <p align="middle">
@@ -26,8 +26,6 @@
     <img align="center" alt="Kohulan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 </p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=kohulan)
 <br/>
 
 - 🔭 I’m currently working on my PhD Research.

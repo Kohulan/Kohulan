@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm [Kohulan.R!](https://cheminf.uni-jena.de/members/kohulan-rajan/) 
 
+![GitHub Logo](/assets/Github_intro.gif)
+
 <br/>
 
 <a href="https://www.linkedin.com/in/kohulanrajan/">

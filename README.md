@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [Kohulan.R!](https://cheminf.uni-jena.de/members/kohulan-rajan/) 
 
-![GitHub intro](/assets/Github_intro.gif)
+![GitHub intro](https://github.com/Kohulan/Kohulan/blob/master/assets/Github_intro.gif)
 
 <br/>
 

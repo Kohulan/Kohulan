@@ -27,7 +27,7 @@
   </a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Kohulan.Kohulan)
+![](https://visitor-badge.glitch.me/badge?page_id=kohulan)
 <br/>
 <br/>
 

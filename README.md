@@ -5,19 +5,23 @@
 </p>
 <br/>
 <br/>
-<p align="center">
+<p align="middle">
 <a href="https://www.linkedin.com/in/kohulanrajan/">
   <img align="center" alt="Kohulan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
 <a href="www.facebook.com/Kohulan.RPhotography/">
   <img align="center" alt="Kohulan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/kohulanr/">
   <img align="center" alt="Kohulan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="http://orcid.org/0000-0003-1066-7792">
   <img align="center" alt="Kohulan's ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/Kohulan">
   <img align="center" alt="Kohulan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>

@@ -3,8 +3,10 @@
 ![GitHub intro](https://github.com/Kohulan/Kohulan/blob/master/assets/Github_intro.gif)
 
 <br/>
-
-<a align="center" href="https://www.linkedin.com/in/kohulanrajan/">
+<p align="center" href="https://www.linkedin.com/in/kohulanrajan/">
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+</p>
+<a align="middle" href="https://www.linkedin.com/in/kohulanrajan/">
   <img alt="Kohulan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a align="center" href="www.facebook.com/Kohulan.RPhotography/">

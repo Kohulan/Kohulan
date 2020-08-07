@@ -46,4 +46,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
 </p>
 <br/>
+<p align="middle">
+  Check out what's playing on my <b>Spotify right now!</b><br>
+  <a href="https://natemoo-re-seven.vercel.app/now-playing">
+      <img align="center" src="https://natemoo-re-seven.vercel.app/now-playing" width="256" height="64" alt="Kohulan's Now Playing">`
+  </a>
+</p>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kohulan" alt="kohulan" /> </p>

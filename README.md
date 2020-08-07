@@ -26,7 +26,7 @@
 </p>
 <br/>
 
-- 🔭 I’m currently working on my PhD Research.
+- 🔭 I’m currently working on my [PhD Research](https://kohulan.github.io/Decimer-Official-Site/).
 - 🌱 I’m currently learning more about TPUs(Tensor Processing Units).
 - 💬 Ask me about Anything.
 - 📫 How to reach me: kohulan.rajan@uni-jena.de.

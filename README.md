@@ -50,7 +50,7 @@
 <p align="middle">
   Check out what's playing on my <b>Spotify right now!</b><br>
   <a href="https://natemoo-re-seven.vercel.app/now-playing">
-      <img align="center" src="https://natemoo-re-3p2ix14kb-kohulan.vercel.app/now-playing" width="256" height="64" alt="Kohulan's Now Playing">`
+      <img align="center" src="https://natemoo-re-3p2ix14kb-kohulan.vercel.app/now-playing?open" width="256" height="64" alt="Kohulan's Now Playing">`
   </a>
 </p>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kohulan" alt="kohulan" /> </p>

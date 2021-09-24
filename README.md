@@ -49,7 +49,7 @@
 <br/>
 <p align="middle">
   Check out what's playing on my <b>Spotify right now!</b><br>
-  <a href="natemoo-re-3p2ix14kb-kohulan.vercel.app/now-playing?open">
+  <a href="https://natemoo-re-3p2ix14kb-kohulan.vercel.app/now-playing?open">
       <img align="center" src="https://natemoo-re-3p2ix14kb-kohulan.vercel.app/now-playing" width="256" height="64" alt="Kohulan's Now Playing">`
   </a>
 </p>  

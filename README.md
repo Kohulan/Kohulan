@@ -27,9 +27,8 @@
 </p>
 <br/>
 
-- 🔭 I’m currently working on my [PhD Research](https://kohulan.github.io/Decimer-Official-Site/).
-- 🌱 I’m currently learning more about TPUs(Tensor Processing Units).
-- 💬 Ask me about Anything.
+- 🔭 I’m currently a Postdoc @ [Steinbeck lab](https://cheminf.uni-jena.de) in Jena, Germany
+- 💬 I'm the lead developer of the [DECIMER](https://decimer.ai) project.
 - 📫 How to reach me: kohulan.rajan@uni-jena.de.
 - ⚡ Fun fact: I do click some good photos. 📷 😎
 

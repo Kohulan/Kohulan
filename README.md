@@ -6,23 +6,19 @@
 </br>
 <p align="middle">
   <a href="https://www.linkedin.com/in/kohulanrajan/">
-    <img align="center" alt="Kohulan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="center" alt="Kohulan's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://www.facebook.com/Kohulan.RPhotography/">
-    <img align="center" alt="Kohulan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+    <img align="center" alt="Kohulan's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://www.instagram.com/kohulanr/">
-    <img align="center" alt="Kohulan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="center" alt="Kohulan's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="http://orcid.org/0000-0003-1066-7792">
-    <img align="center" alt="Kohulan's ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
+    <img align="center" alt="Kohulan's ORCID" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/orcid.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://github.com/Kohulan">
-    <img align="center" alt="Kohulan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img align="center" alt="Kohulan's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" />
   </a>
 </p>
 <br/>

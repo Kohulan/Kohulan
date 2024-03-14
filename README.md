@@ -43,7 +43,7 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/photoshop-cc.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/246px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
 </p>
 <br/>
 <p align="middle">

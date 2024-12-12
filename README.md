@@ -1,6 +1,4 @@
-# 👋 Hey there! I'm Kohulan R. 
-
-## 🌟 About Me
+# 👋 Hey there! 
 
 <div align="center">
   <a href="https://kohulanr.com">
@@ -11,7 +9,7 @@
 ## 🚀 Professional Journey
 
 - 🔬 **Postdoc Researcher** at the [Steinbeck Lab](https://cheminf.uni-jena.de), Jena, Germany
-- 🧪 Lead Developer of the groundbreaking [DECIMER](https://decimer.ai) project
+- 🧪 Lead Developer of the [DECIMER](https://decimer.ai) project
 - 🌐 Bridging chemistry, computer science, and innovation
 
 ## 🤝 Connect With Me

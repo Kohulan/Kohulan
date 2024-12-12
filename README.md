@@ -42,7 +42,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kohulan&theme=radical&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kohulan&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ## 🎵 Currently Vibing To

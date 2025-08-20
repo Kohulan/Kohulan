@@ -71,6 +71,7 @@
   <tr>
     <td align="center" valign="middle" width="50%">
       <!-- 🎧 Now Playing -->
+      Check out what's playing on my <b>Spotify</b> right now! 
       <a href="https://natemoo-re-3p2ix14kb-kohulan.vercel.app/now-playing?open"
          target="_blank" rel="noopener noreferrer"
          aria-label="Open the currently playing track on Spotify">

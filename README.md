@@ -1,14 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I'm%20Kohulan.R&fontSize=50&fontAlignY=35&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6994CDEE&center=true&vCenter=true&width=600&height=70&lines=Lead+Developer+of+DECIMER+Project;Postdoc+at+Steinbeck+Lab;AI+%26+Machine+Learning+Scientist;Computational+Chemist;Photographer)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://kohulanr.com">
     <img align="center" src="https://github.com/Kohulan/Kohulan/blob/master/assets/Github_intro.gif" alt="kohulan_intro" width="70%" />
   </a>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6994CDEE&center=true&vCenter=true&width=600&height=70&lines=Lead+Developer+of+DECIMER+Project;Postdoc+at+Steinbeck+Lab;AI+%26+Machine+Learning+Scientist;Computational+Chemist;Photographer)](https://git.io/typing-svg)
+
 <!-- 3D Contribution Snake with Neon Glow -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -34,7 +35,7 @@
 
 - 🔬 **Postdoc** @ [Steinbeck Lab](https://cheminf.uni-jena.de) in Jena, Germany  
 - 💡 **Lead Developer** of the [DECIMER](https://decimer.ai) Project  
-- 🤖 **AI & Machine Learning Scientist** specializing in cheminformatics and data mining  
+- 🤖 **AI & Machine Learning Scientist** Specializing in cheminformatics, computer vision and data mining  
 - ✉️ **Reach me at**: kohulan.rajan@uni-jena.de  
 - 📸 **Fun Fact**: I love photography—yes, I click some pretty decent shots!
 

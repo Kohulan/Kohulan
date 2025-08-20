@@ -99,13 +99,9 @@
   </tr>
 </table>
 
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kohulan" alt="Profile views" />
-</p>
-
 ---
+
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="30"> Random Dev Quote
 
@@ -128,9 +124,9 @@
 **Let's build something amazing together!**
 
 Feel free to reach out for collaborations, research opportunities, or just a friendly chat about AI, chemistry, or photography!
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=kohulan&style=for-the-badge&color=00b3ff" alt="Profile views" />
-
+</p>
 </div>
 
 <!-- Footer Wave Animation -->

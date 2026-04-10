@@ -8,7 +8,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6994CDEE&center=true&vCenter=true&width=600&height=70&lines=Lead+Developer+of+DECIMER+Project;Postdoc+at+Steinbeck+Lab;AI+%26+Machine+Learning+Scientist;Computational+Chemist;Photographer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6994CDEE&center=true&vCenter=true&width=600&height=70&lines=Lead+Developer+of+DECIMER+Project;Project+Lead+AI+%26+Automation+%40+Beilstein-Institut;AI+%26+Machine+Learning+Scientist;Computational+Chemist;Photographer)](https://git.io/typing-svg)
 
 <!-- 3D Contribution Snake with Neon Glow -->
 <picture>
@@ -33,9 +33,10 @@
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-- 🔬 **Postdoc** @ [Steinbeck Lab](https://cheminf.uni-jena.de) in Jena, Germany  
+- 🔬 **Project Lead, AI & Automation** @ [Beilstein Institute](https://www.beilstein-institut.de), Frankfurt, Germany  
+- 🧪 **Visiting Scientist** @ [Steinbeck Lab](https://cheminf.uni-jena.de), Friedrich-Schiller-Universität Jena  
 - 💡 **Lead Developer** of the [DECIMER](https://decimer.ai) Project  
-- 🤖 **AI & Machine Learning Scientist** Specializing in cheminformatics, computer vision and data mining  
+- 🤖 **AI & Machine Learning Scientist** specializing in cheminformatics, computer vision and data mining  
 - ✉️ **Reach me at**: kohulan.rajan@uni-jena.de  
 - 📸 **Fun Fact**: I love photography—yes, I click some pretty decent shots!
 
@@ -77,7 +78,7 @@
          aria-label="Open the currently playing track on Spotify">
         <img
           src="https://natemoo-re-3p2ix14kb-kohulan.vercel.app/now-playing"
-          alt="Kohulan’s current Spotify track"
+          alt="Kohulan's current Spotify track"
           width="420"
           loading="lazy"
           decoding="async"
@@ -91,7 +92,7 @@
          aria-label="Open my Spotify recently played">
         <img
           src="https://spotify-recently-played-readme.vercel.app/api?user=21yvxka2435x4kxy75ryeukwi&count=5&width=420"
-          alt="Kohulan’s 5 most recent Spotify tracks"
+          alt="Kohulan's 5 most recent Spotify tracks"
           width="420"
           loading="lazy"
           decoding="async"

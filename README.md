@@ -8,7 +8,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6994CDEE&center=true&vCenter=true&width=600&height=70&lines=Lead+Developer+of+DECIMER+Project;Project+Lead+AI+%26+Automation+%40+Beilstein-Institut;AI+%26+Machine+Learning+Scientist;Computational+Chemist;Photographer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6994CDEE&center=true&vCenter=true&width=600&height=70&lines=Lead+Developer+of+DECIMER+Project;Leading+AI+%26+Automation+%40+Beilstein-Institut;AI+%26+Machine+Learning+Scientist;Computational+Chemist;Photographer)](https://git.io/typing-svg)
 
 <!-- 3D Contribution Snake with Neon Glow -->
 <picture>
